@@ -3,6 +3,7 @@ package farkas.tdk.firstndk;
 /**
  * author：Administrator 
  * time：2016/8/15.16:50
+ *  函数声明文件中的   类名包名函数名   必须与so文件中的相同
  */
 public class Load {
     static {
